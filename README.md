@@ -21,7 +21,7 @@ Provide a brief introduction describing the proposed work. Be sure to also decri
 
 ### The problem
 
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
+Marine heatwaves (MHW) are discrete periods of anomalously warm ocean temperatures. They are becoming more frequent, intense, and long-lasting as the ocean warms, yet their effects on phytoplankton, the base of the marine food web, remain poorly constrained below the sea surface. Most MHW studies rely on satellite-derived sea surface temperature and surface chlorophyll, which can't resolve how heatwaves reshape phytoplankton bloom timing, physiology, and vertical structure through the water column, or whether they enhance or suppress the biological carbon pump. As MHWs become more common under continued warming, understanding their cumulative effect on ocean productivity and carbon export is central to projecting how the ocean's role as a carbon sink, and its capacity to support fisheries and marine ecosystems, will change.
 
 ## Data and Methods
 
